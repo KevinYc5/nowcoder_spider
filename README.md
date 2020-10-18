@@ -6,3 +6,4 @@
 - [scrapy](https://scrapy.org/) - 用于爬虫的框架
 - MySQL - 用来作为数据库
 - pymysql - 用来在Python中操作MySQL的模块
+- Mysql Workbench - 用于数据库管理
